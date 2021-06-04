@@ -41,6 +41,12 @@
             <version>2.6</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.zmc</groupId>
+            <artifactId>workflow</artifactId>
+            <version>2.6</version>
+        </dependency>
+
         <!-- Spring boot websocket -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
